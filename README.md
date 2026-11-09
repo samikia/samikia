@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Samira
 
-Frontend Developer with 4+ years of experience in React, TypeScript and Next.js, after a deliberate career change from teaching. I build multilingual, CMS-driven websites and real-time monitoring dashboards. Available full-time immediately.
+Frontend Developer with 4+ years of experience in React, TypeScript and Next.js. I build multilingual, CMS-driven websites and real-time monitoring dashboards. Available full-time immediately.
 
 ## 🚀 What I've worked on
 
